@@ -1,0 +1,6 @@
+to run it, install these libraries first:
+
+libfftw3-3
+libasound2
+libsndfile1
+libpulse0
